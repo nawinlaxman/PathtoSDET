@@ -1,4 +1,4 @@
-package main.java.mandatoryHomeWork.week6.day4;
+package mandatoryHomeWork.week7.day1;
 
 import static org.junit.Assert.assertEquals;
 
