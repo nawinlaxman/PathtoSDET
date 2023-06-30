@@ -1,4 +1,4 @@
-package mandatoryHomeWork.week7.day1;
+package mandatoryHomeWork.week6.day4;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
